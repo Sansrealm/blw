@@ -1,3 +1,4 @@
+'use client';
 import React from 'react';
 import { MainNavigation } from './components/Navigation';
 import Link from 'next/link';
