@@ -16,7 +16,6 @@ export default function Home() {
               Helping businesses navigate challenges, seize opportunities, and achieve sustainable growth.
             </p>
             <div className="mt-10 flex items-center gap-x-6">
-
               <a
                 href="./contact"
                 className="rounded-md bg-white px-6 py-3 text-lg font-semibold text-blue-600 shadow-sm hover:bg-blue-50 transition-colors"
